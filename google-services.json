@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579431649870",
+    "firebase_url": "https://ridingpritilota.firebaseio.com",
+    "project_id": "ridingpritilota",
+    "storage_bucket": "ridingpritilota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579431649870:android:a176f0f3b9da6603",
+        "android_client_info": {
+          "package_name": "com.example.antora.ridingpritilota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579431649870-akcvm791jv9ga39tu3dmo757u5d5lfrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antora.ridingpritilota",
+            "certificate_hash": "cc70b0b51454a4a9b8d6fb9d40ccce9c4b4696b0"
+          }
+        },
+        {
+          "client_id": "579431649870-7sfdpotc2a5ahfgjnd73egr8bnucq2co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtp6ORiBXK4fbDvHD0XmNHXvYX3H4CCCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579431649870-7sfdpotc2a5ahfgjnd73egr8bnucq2co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
